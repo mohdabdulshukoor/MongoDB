@@ -1,0 +1,10 @@
+[{"_id":0, "name":"Zhen", "Feedback":"Thanks to the course teachers and others associated with designing such a wonderful learning experience.Appreciate each one of your contributions is peer learning and evaluation"},
+{"_id":1,"name":"Viksna S","Feedback":"This has just been a long and rambling series of telling us to use technology because it's important to ensure the kids can cope with the digital age and to caution us that while doing so, we should meet the needs of learners and to align with learning objectives rather than use it based on personal whim and fancy"},
+{"_id":3,"name":"Tommy W","Feedback":"A wonderful experience and a handy course. The lecturers are great with a very nice way on interacting"},
+{"_id":4,"name":"Wendy N L","Feedback":"Well organised and very useful course for online teaching beginners"},
+{"_id":5,"name":"Cameron S","Feedback":"I want to give this course a full 5-star review"},
+{"_id":6,"name":"Maciek Z","Feedback":"Inspired me to try a flipped classroom. Provoked me to research several educational technologies"},
+{"_id":7,"name":"Lakshmi T","Feedback":"Very interesting subject but for a course on e-learning the methods are quite modest and a bit obsolete"},
+{"_id":8,"name":"Christopher M","Feedback":"Very good course that has given an overview of using and implementing web tools appropriately to optimize students performance in their academic experience leading to become an independent learner"}]
+
+

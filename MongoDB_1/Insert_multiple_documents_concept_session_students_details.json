@@ -1,0 +1,55 @@
+[{
+  "c_ID ": 1,
+  "name": "Emma",
+  "age": "23",
+  "email_id": "emma@xyz.com"
+},{
+  
+  "c_ID": 2,
+  "name ": "Ava",
+  "age": "33",
+  "email_id": "ava@xyz.com"
+},{
+  
+  "c_ID": 3,
+  "name": "Olivia",
+  "age": 45,
+  "email_id": "olivia@abc.com"
+},{
+  "c_ID": 4,
+  "name": "Lucas",
+  "age": 56,
+  "email_id": "lukas@xyz.com"
+},{
+    "c_ID": 5,
+  "name": "Mia",
+  "age": 43,
+  "email_id": "mia@xyz.com"
+},{
+  "c_ID": 6,
+  "name": "Henry",
+  "age": 27,
+  "email_id": "henry@abc.com"
+},{
+  "c_ID": 7,
+  "name": "Sophia",
+  "age": 25,
+  "email_id": "sophia@abc.com"
+},{
+  "c_ID": 8,
+  "name": "Harper",
+  "age": 26,
+  "email_id": "harper@abc.com"
+},{
+  
+  "c_ID": 9,
+  "name": "Lily",
+  "age": 25,
+  "email_id": "lily@abc.com"
+},{
+ 
+  "c_ID": 10,
+  "name": "Nora",
+  "age": 25,
+  "email_id": "nora@abc.com"
+}]
